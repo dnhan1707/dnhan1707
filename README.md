@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [Blog Website implementing Database](https://github.com/dnhan1707/Blog-Website)
 
-- 🌱 I’m currently learning **Web Development from Udemy and Computer Science at PCC**
+- 🌱 I’m currently learning **Web Development from Udemy and Computer Science at Pasadena City College**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dnhan1707](https://github.com/dnhan1707)
 
 - 📫 How to reach me **www.linkedin.com/in/nhan-tri-danh-29b922223**
 
-- ⚡ Fun fact **I can continuously study for 10 hours straight without break**
+- ⚡ Fun fact **I can continuously study for 10 hours straight without a break**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
