@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Galaga - 2D Space Invader Game](https://github.com/dnhan1707/galaga)
 
-- 🌱 I’m currently learning **Web Development from Udemy and Computer Science at Pasadena City College**
+- 🌱 I’m currently learning **Engineering and Computer Science at Pasadena City College**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dnhan1707](https://github.com/dnhan1707)
 
