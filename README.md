@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **www.linkedin.com/in/nhan-tri-danh-29b922223**
 
-- ⚡ Fun fact **I can continuously study for 10 hours straight without a break**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nhan tri (jack) danh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nhan tri (jack) danh" height="30" width="40" /></a>
