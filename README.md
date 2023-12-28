@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nhan Tri Danh (Jack)</h1>
 <h3 align="center">A passionate Backend Developer student</h3>
 
-- 🔭 I’m currently working on [Galaga - 2D Space Invader Game](https://github.com/dnhan1707/galaga)
+- 🔭 I’m currently working on [Email Animation Program](https://github.com/dnhan1707/bet_app)
 
 - 🌱 I’m currently learning **Engineering and Computer Science at Pasadena City College**
 
