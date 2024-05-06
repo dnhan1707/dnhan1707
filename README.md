@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Email Automation Project](https://github.com/dnhan1707/Email_Automation_App)
 
-- 🌱 I’m currently learning **IBM DevOps and Software Engineering Professional Certificate** 
+- 🌱 I’m currently learning **AI, Machine Learning and Data Science Course** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/dnhan1707](https://github.com/dnhan1707)
 
