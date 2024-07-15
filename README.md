@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nhan Tri Danh (Jack)</h1>
 <h3 align="center">A passionate Backend Developer student</h3>
 
-- 🔭 I’m currently working on [Email Automation Project](https://github.com/dnhan1707/Email_Automation_App)
+- 🔭 I’m currently working on [Journey AI startup project](https://github.com/TamSuj/JourneyAI)
 
 - 🌱 I’m currently learning **AI, Machine Learning and Data Science Course** 
 
