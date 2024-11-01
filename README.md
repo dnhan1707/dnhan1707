@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nhan Tri Danh (Jack)</h1>
 <h3 align="center">A passionate Backend Developer student</h3>
 
-- 🔭 I’m currently working on [Journey AI startup project](https://github.com/TamSuj/JourneyAI)
-
-- 🌱 I’m currently learning **AI, Machine Learning and Data Science Course** 
+- 🔭 I’m currently working on [React Native](https://reactnative.dev/) @Meta x MLH
 
 - 👨‍💻 All of my projects are available at [https://github.com/dnhan1707](https://github.com/dnhan1707)
 
